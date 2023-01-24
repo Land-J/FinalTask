@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\FinalTask\Reshenie\bin\Debug\net7.0\Reshenie.exe
+C:\Users\user\Desktop\FinalTask\Reshenie\bin\Debug\net7.0\Reshenie.deps.json
+C:\Users\user\Desktop\FinalTask\Reshenie\bin\Debug\net7.0\Reshenie.runtimeconfig.json
+C:\Users\user\Desktop\FinalTask\Reshenie\bin\Debug\net7.0\Reshenie.dll
+C:\Users\user\Desktop\FinalTask\Reshenie\bin\Debug\net7.0\Reshenie.pdb
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\Reshenie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\Reshenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\Reshenie.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\Reshenie.AssemblyInfo.cs
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\Reshenie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\Reshenie.dll
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\refint\Reshenie.dll
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\Reshenie.pdb
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\Reshenie.genruntimeconfig.cache
+C:\Users\user\Desktop\FinalTask\Reshenie\obj\Debug\net7.0\ref\Reshenie.dll
